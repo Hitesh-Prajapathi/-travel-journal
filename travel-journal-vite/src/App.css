@@ -82,20 +82,5 @@ body, html {
   font-size: 1.25em;
   font-weight: bold;
   color: #212121;
-  margin: 6px 0 2px 0;
-}
-
-.card-date {
-  font-size: 1em;
-  font-weight: bold;
-  color: #2d2d2d;
-  margin-bottom: 6px;
-  display: block;
-}
-
-.card-desc {
-  font-size: 1em;
-  color: #454545;
-  margin-top: 4px;
-  line-height: 1.5;
+  margin: 6px 0 2px 0
 }
